@@ -75,7 +75,16 @@ Bar Chart: Showed most used tools (e.g., PowerShell, reg.exe)
 
 ✅ Extracted fields and decoded base64 commands
 
-(Insert screenshots here)
+(
+https://github.com/Abdallahreda97/Splunk-Ransomware-Investigation/blob/main/screenshots/ransomware1.png
+https://github.com/Abdallahreda97/Splunk-Ransomware-Investigation/blob/main/screenshots/ransomware2.png
+https://github.com/Abdallahreda97/Splunk-Ransomware-Investigation/blob/main/screenshots/ransomware3.png
+https://github.com/Abdallahreda97/Splunk-Ransomware-Investigation/blob/main/screenshots/ransomware4.png
+https://github.com/Abdallahreda97/Splunk-Ransomware-Investigation/blob/main/screenshots/ransomware5.png
+https://github.com/Abdallahreda97/Splunk-Ransomware-Investigation/blob/main/screenshots/ransomware6.png
+https://github.com/Abdallahreda97/Splunk-Ransomware-Investigation/blob/main/screenshots/ransomware7.png
+https://github.com/Abdallahreda97/Splunk-Ransomware-Investigation/blob/main/screenshots/ransomware8.png
+)
 
 🧾 Conclusion
 Through this Splunk-based investigation, I was able to:
